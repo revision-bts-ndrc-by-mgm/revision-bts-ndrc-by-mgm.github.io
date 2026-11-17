@@ -1,0 +1,17 @@
+{
+  "name": "REVISION-BTS-NDRC-BY-MGM",
+  "short_name": "BTS NDRC MGM",
+  "description": "Fiches et quiz pour réviser tout le BTS NDRC.",
+  "lang": "fr",
+  "start_url": "./",
+  "id": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F5FA",
+  "theme_color": "#16182B",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
